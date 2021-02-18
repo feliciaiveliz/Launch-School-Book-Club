@@ -17,23 +17,17 @@
 
 **Book Recommendations by Student**:
 
-- **Title**: Euphoria
-- **Recommended by**: Kris Ingva
+- **Title**: Euphoria | **Recommended by**: Kris Ingva
 
-- **Title**: A History of Reading
-- **Recommended by**: Jeannine Loftus
+- **Title**: A History of Reading | **Recommended by**: Jeannine Loftus
 
-- **Title**: The Darwin Affair
-- **Recommended by**: Alfonso Gonzalez
+- **Title**: The Darwin Affair | **Recommended by**: Alfonso Gonzalez
 
-- **Title**: Buddha's Brain
-- **Recommended by**: Jenae Janzen
+- **Title**: Buddha's Brain | **Recommended by**: Jenae Janzen
 
-- **Title**: No Longer Human
-- **Recommended by**: Lucas ?
+- **Title**: No Longer Human | **Recommended by**: Lucas ?
 
-- **Title**: How to Read a Book
-- **Recommended by**: Aaron Smith
+- **Title**: How to Read a Book | **Recommended by**: Aaron Smith
 
 ---
 

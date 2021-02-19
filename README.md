@@ -1,6 +1,6 @@
 ## :books: This repository contains everything you need to know about the Launch School book club! :books: :tada:
 
-### Current Book: Buddha's Brain
+### Current Book: Buddha's Brain by Rick Hanson
 
 | Date | Chapters to have read | Completed? |
 |----------|------|----------|

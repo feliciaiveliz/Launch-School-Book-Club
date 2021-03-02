@@ -6,7 +6,7 @@
 | Date | Chapters to have read | Completed? |
 |----------|------|----------|
 | Feb. 17 | N/A | x |
-| Feb. 24 | 1-2 | | 
+| Feb. 24 | 1-2 | x | 
 | Mar. 3 | 3-4 | | 
 | Mar. 10 | 5-6 | |
 | Mar. 17 | 7-8 | | 

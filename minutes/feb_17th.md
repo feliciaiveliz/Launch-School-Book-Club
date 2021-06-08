@@ -8,7 +8,7 @@
 - Jeannine Loftus
 - Felicia Bacon
 - Alfonso Gonzalez
-- Lucas ? 
+- Lucas Bonner
 - Aaron Smith
 - Balal Naeem
 - Jenae Janzen

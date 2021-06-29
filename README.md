@@ -8,9 +8,8 @@ The *Launch School Book Club* is a place for LS students to come together and ta
 
 | Meeting # | Date | Chapters | Meeting Held? |
 |-----------|------|----------|--------------------|
-| 1 | June 16th | 1-2   (pg. 3-39) |  |
-| 2 | June 23rd | 3-4 (pg. 39-77)|  | 
-| 3 | June 30th | 5-6 (pg. 77-101) | | 
-| 4 | July 7th| 7-8 (pg. 101-139)| |
-| 5 | July 14th | 9-10 (pg. 139-177)| | 
-| 6 | July 21st | 11-12 (pg. 177-215) | | 
+| 1 | June 23rd | 1-4  (pg. 3-75) |  X |
+| 2 | June 30th | 5-6 (pg. 77-99)|  | 
+| 3 | July 7th  | 7-8 (pg. 101-137) | | 
+| 4 | July 14th | 9-10  (pg. 139-175)|
+| 5 | July 21st | 11-12, Epilogue  (pg. 177-217) | 
